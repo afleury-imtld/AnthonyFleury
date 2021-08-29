@@ -1,3 +1,3 @@
-# AnthonyFleury
+# Anthony Fleury
 
 Enseignant-Chercheur HDR
