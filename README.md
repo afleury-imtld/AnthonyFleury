@@ -1,4 +1,4 @@
-Je suis actuellement enseignant-chercheurs HDR en informatique à IMT Nord Europe et animateur du groupe thématique HIDE du CERI SN.
+Je suis actuellement Professeur en Informatique (sections 27/61) à IMT Nord Europe et animateur du groupe thématique HIDE du CERI SN.
 
 # Laboratoire
 
@@ -6,11 +6,34 @@ Je suis actuellement enseignant-chercheurs HDR en informatique à IMT Nord Europ
 
 # Enseignements
 
-# Encadrements
+# Encadrements et collaborations
+## Passés
+### Master
+
+### Thèses
+
+### Post-doctorats
+
+### Ingénieurs
+
+## Préents
+### Master
+
+### Thèses
+
+### Post-doctorats
+
+### Ingénieurs
 
 # Projets de recherche 
 
-# Jurys de thèse
+# Jurys de thèse / HDR
+# France
+## Rapporteur
+
+## Examinateur
+
+# Étranger
+
 
 # Publications
-
